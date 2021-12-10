@@ -1,0 +1,28 @@
+PODS:
+  - ACINetworking.swift (3.0.0):
+    - Alamofire
+  - Alamofire (5.4.4)
+  - AnyCodable (1.2.0)
+  - RxSwift (6.2.0)
+
+DEPENDENCIES:
+  - ACINetworking.swift
+  - AnyCodable
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - ACINetworking.swift
+    - Alamofire
+    - AnyCodable
+    - RxSwift
+
+SPEC CHECKSUMS:
+  ACINetworking.swift: b85c4bfac18b13656ab99e9c7d5f08eebfb41a7a
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  AnyCodable: bb05e19c676899e0fd511652f2d83bfa044e2503
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+
+PODFILE CHECKSUM: b770160e6215377ad9cc8595780a5bcf58032757
+
+COCOAPODS: 1.11.2
